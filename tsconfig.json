@@ -1,0 +1,24 @@
+{
+    "compilerOptions": {
+        "noEmit": true,
+        "strict": true,
+        "allowJs": true,
+        "moduleResolution": "node",
+        "resolveJsonModule": true,
+        "target": "ES2017",
+        "lib": [
+            "es2017",
+            "es6",
+            "dom"
+        ],
+        "types": [
+            "cypress",
+            "node",
+            "@testing-library/cypress",
+            "cypress-xpath"
+        ]
+    },
+    "include": [
+        "**/*.ts"
+    ]
+}

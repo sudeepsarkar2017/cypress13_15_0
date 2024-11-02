@@ -1,0 +1,18 @@
+{
+  "VisaCard": {
+    "emailId": "visaCard@test.com",
+    "cardNumberTwotChar": "42",
+    "cardNumber": "42 4242 4242 4242",
+    "cvc": "123",
+    "zipcode": "84531",
+    "cardType": "visa"
+  },
+  "MastercardCard": {
+    "emailId": "MastercardCard@test.com",
+    "cardNumberTwotChar": "55",
+    "cardNumber": "55 5555 5555 4444",
+    "cvc": "123",
+    "zipcode": "84531",
+    "cardType": "visa"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "rs2_13.15.0",
+  "version": "1.0.0",
+  "description": "RS2 Assignment With Cypress 13.15.0",
+  "main": "index.js",
+  "scripts": {
+    "cy:install": "npm install",
+    "cy:open": "cypress open",
+    "cy:run": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sudeepsarkar2017/cypress13_15_0.git"
+  },
+  "author": "Sudeep Sarkar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sudeepsarkar2017/cypress13_15_0/issues"
+  },
+  "homepage": "https://github.com/sudeepsarkar2017/cypress13_15_0#readme",
+  "devDependencies": {
+    "@testing-library/cypress": "^10.0.2",
+    "cypress": "^13.15.0",
+    "cypress-iframe": "^1.0.1",
+    "cypress-xpath": "^2.0.1",
+    "typescript": "^5.6.3"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "IndexPage": {
+    "url": "/",
+    "pageTitle": "Current Temperature"
+  },
+  "SunscreensPage": {
+    "url": "sunscreen",
+    "pageTitle": "The Best Sunscreens in the World!"
+  },
+  "MoisturizersPage": {
+    "url": "moisturizer",
+    "pageTitle": "The Best Moisturizers in the World!"
+  },
+  "CheckoutPage": {
+    "url": "cart",
+    "pageTitle": "Cart Items"
+  },
+  "PaymentSuccess": {
+    "url": "confirmation",
+    "pageTitle": "PAYMENT SUCCESS"
+  }
+}
